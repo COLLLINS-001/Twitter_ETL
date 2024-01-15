@@ -5,8 +5,8 @@ from datetime import datetime
 import s3fs
 
 consumer_key = "Rwguik16JSaMutUL6hiTg5rl4"
-consumer_secret = "Nzp9GaeEZZ0r4tsChAuE9EH4K6zR3jLeVM8zkC34PJHSDcB9F0"
-access_key = "1610157465567465472-aEptW7lNIwZ6AwVpyudx1SZoDFsC03"
+consumer_secret = "Nzp9GaeEZZ0r4tsChAuE9EH4K6zR3jLeVM8zkC34PJHS"
+access_key = "1610157465567465472-aEptW7lNIwZ6AwVpyudx1"
 access_secret = "yqZwohhiowh9sYYQZ4vcSoNjGbmSl7OQ3NvzD6Yv4YzyP"
 
 # Twitter Authentication
